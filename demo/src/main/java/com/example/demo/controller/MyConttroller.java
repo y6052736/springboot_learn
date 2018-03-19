@@ -15,7 +15,7 @@ public class MyConttroller {
     @RequestMapping("/test")
     @ResponseBody
     public String test() {
-        return "hello world11111";
+        return "hello world111112222";
     }
 
 }
